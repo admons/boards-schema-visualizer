@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkboards_schema_visualizer=self.webpackChunkboards_schema_visualizer||[]).push([[669],{8669:function(s){s.exports=JSON.parse('{"DEFAULT":"#91C4F2","public":"#91C4F2"}')}}]);
